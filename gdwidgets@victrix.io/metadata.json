@@ -2,6 +2,6 @@
   "name": "GNOME Dock Widgets",
   "description": "Add widgets to the dock",
   "uuid": "gdwidgets@victrix.io",
-  "shell-version": ["48"],
-  "version": 0.4
+  "shell-version": ["48", "49"],
+  "version": 0.5
 }
