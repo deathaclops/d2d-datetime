@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r gdwidgets@victrix.io ~/.local/share/gnome-shell/extensions/
+cp -r d2d-datetime@victrix.io ~/.local/share/gnome-shell/extensions/

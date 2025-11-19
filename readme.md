@@ -1,4 +1,4 @@
-# GNOME Dock Widgets
+# Dash-to-dock DateTime
 
 A GNOME extension adding a clock and date to dock when using dash-to-dock.
 Currently only set up to handle the dock when its on the left or right side.
